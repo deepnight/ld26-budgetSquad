@@ -1,0 +1,8 @@
+-cp src
+-swf swf/ludumdare26.swf
+-swf-header 900:540:30:FFFFFF
+-swf-lib obj\ludumdare26Resources.swf
+--flash-strict
+-swf-version 10.1
+-main Main
+-D spriteParticles
